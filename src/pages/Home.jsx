@@ -8,7 +8,7 @@ import { Canvas } from "@react-three/fiber";
 import { Suspense, useState, useEffect, useRef } from "react";
 import Loader from "../components/Loader";
 import Island from "../models/Island";
-import Sky from "../models/sky";
+import Sky from "../models/Sky";
 import Bird from "../components/Bird";
 import Plane from "../components/Plane";
 import HomeInfo from "../components/HomeInfo";
