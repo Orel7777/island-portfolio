@@ -1,4 +1,4 @@
-import CTA from "../components/CTA.JSX";
+import CTA from "../components/CTA.jsx";
 import { skills } from "../constants/index";
 
 const About = () => {
