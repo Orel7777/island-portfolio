@@ -1,8 +1,13 @@
-# React + Vite
+# Island Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Purpose**  
+This project is a creative portfolio website built to showcase design and development skills, with a focus on modern and responsive UI.  
 
-Currently, two official plugins are available:
+**Technologies**  
+- HTML  
+- CSS  
+- JavaScript (or specify React/other libraries if applicable)  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Links**  
+- [Live Project (Vercel)](https://island-portfolio-mwv4.vercel.app/)  
+- [Source Code (GitHub)](https://github.com/USERNAME/REPO_NAME)
